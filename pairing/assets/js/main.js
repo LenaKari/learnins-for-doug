@@ -8,5 +8,5 @@ var createAlert = function() {
 
 // Create a function that prints to console
 var printToConsole = function() {
-  console.log("This message is a secret and " + person + " should't look at it!");
+  console.log("This message is a secret and " + person + " shouldn't look at it!");
 };
